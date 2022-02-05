@@ -1,0 +1,1 @@
+It seems the lesson in this assignment was to understand routing using Express and HBS. This is very similar to assignment one considering we used HTTPS
