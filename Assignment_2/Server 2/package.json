@@ -1,0 +1,16 @@
+{
+  "name": "server-2",
+  "version": "1.0.0",
+  "description": "This is a package for Assignment 2 Server 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saimer Nieve",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
