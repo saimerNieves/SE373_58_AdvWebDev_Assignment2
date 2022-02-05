@@ -18,7 +18,7 @@ const port = 3003;
 
 
 expressFunctions.use(function(req, res) {
-    // You can add authentication here
+
     //console.log("Received request for: " + req.url, req);
 
     
